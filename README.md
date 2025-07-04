@@ -2,6 +2,11 @@
 
 Welcome to **Yash's Tic Tac Toe** — a beautiful, feature-rich, and fully responsive Progressive Web App (PWA) version of the classic Tic Tac Toe game.
 
+![GitHub Repo stars](https://img.shields.io/github/stars/yash-codes-077/tic-tac-toe-pwa?style=social)
+![GitHub forks](https://img.shields.io/github/forks/yash-codes-077/tic-tac-toe-pwa?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/yash-codes-077/tic-tac-toe-pwa)
+![GitHub last commit](https://img.shields.io/github/last-commit/yash-codes-077/tic-tac-toe-pwa)
+
 ---
 
 ## 🌟 Features
@@ -75,9 +80,7 @@ There’s a small delay for realism, and it's challenging to beat!
 3. Go to **Settings > Pages**
 4. Select `main` branch → `/ (root)`
 5. Get your game live at:
-   ```
-https://<your-username>.github.io/tic-tac-toe-pwa/
-```
+   https://<your-username>.github.io/tic-tac-toe-pwa/
 
 ---
 
